@@ -1,0 +1,2 @@
+# gaia-local-test
+PruebaAutomatizadaVenta
